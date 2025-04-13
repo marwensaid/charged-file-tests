@@ -232,15 +232,6 @@ server.tomcat.max-threads=200
 
 ---
 
-### **Temps estimé**
-
-- Développement de l'API : **30 minutes**.
-- Configuration de JMeter : **30 minutes**.
-- Exécution des tests : **1 heure**.
-- Analyse des résultats et rapport : **1 heure**.
-
----
-
 ### **Ressources utiles**
 
 - [Documentation officielle de JMeter](https://jmeter.apache.org/)
